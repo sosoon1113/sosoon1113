@@ -104,11 +104,10 @@ I am a senior fullstack developer with deep experience in AI, eCommerce, data sc
 ---
 
 ## 📫 Connect With Me
-[](https://github.com/gru0711#-connect-with-me)
+[](https://github.com/sosoon1113#-connect-with-me)
 
-- Email: [drgru0711@gmail.com](mailto:drgru0711@gmail.com)
-- Telegram: gru0711
-- Discord: gru0711
-- MS team chat: [ycdev1003@outlook.com](mailto:ycdev1003@outlook.com)
+- Email: [bledzupwork@gmail.com](mailto:bledzupwork@gmail.com)
+- Telegram: sosoon1113
+- Discord: traemos0014
 
 > Drop me a message and tell me about your project.
